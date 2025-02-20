@@ -15,8 +15,9 @@ Sentimento Negativo resultado da pesquisa
 
 Localização Chicago resultado da pesquisa solicitado no exemplo:
 ![localização-chigaco](https://github.com/user-attachments/assets/9478be86-7838-43f0-b4f0-d2531e729255)
+### Diferente do resultado do passo a passo, aqui para o mecanismo de busca foi localizado no resultado quatro (4) locais com o nome Chicago.
 
-Concluo então, processo de muitos parametrizações, no meu ponto de vista, não interpreto como complexo as várias parametrizações, mas que devido ao muito bom explicado e exemplificado que eu pudesse concluir mais um laboratório de entrega de projeto.
+Concluo então que processo são de muitas parametrizações e que no meu ponto de vista, não interpreto como complexo as várias parametrizações, o exemplo bem explicado e exemplificado consegui oncluir mais um (1) laboratório entregando o projeto no Github.
 Estou satisfeito com o conhecimento adquirido, satistfeito de que a Valéria informou não ter essa prova prática para a certificação, porém o enganjamento logo para a prática remuneratória tem que vir logo após 100% de aproveitamento na prova que atesta minha capacidade de trabalhar com AI.
 
 *Grato!*
